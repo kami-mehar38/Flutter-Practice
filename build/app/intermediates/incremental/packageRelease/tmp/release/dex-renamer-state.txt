@@ -1,0 +1,4 @@
+#Tue May 21 16:08:02 GST 2019
+base.0=/Users/ingizly/mo_delawer/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
