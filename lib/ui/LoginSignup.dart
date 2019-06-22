@@ -5,6 +5,7 @@ import './Login.dart';
 import './Signup.dart';
 
 class LoginSignup extends StatefulWidget {
+  String name = '';
   @override
   _MyLoginSignupState createState() => _MyLoginSignupState();
 }
